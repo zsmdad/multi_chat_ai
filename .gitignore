@@ -1,0 +1,14 @@
+*.json
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.DS_Store
+*.pyc
+*.pyo
+*.pyd
+*.egg-info
+*.egg
+*.dist-info
+.venv/
